@@ -1,6 +1,9 @@
 const Habitacion = require('./habitacion');
 const Climatizador = require('./climatizador');
 const Termostato = require('./termostato');
+// const const express = require('express'); text afegit pel ruben al exemple de classe
+
+
 
 // Creamos una habitacion:
 const dormitorio = new Habitacion();

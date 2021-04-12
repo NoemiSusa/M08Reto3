@@ -1,0 +1,29 @@
+
+{
+  "name": "M08Reto3",
+  "author": "NoemiSusagna",
+  "license": "GNU",
+  "version": "0.0.0",
+  "info": {
+    "githubURL": "https://github.com/NoemiSusa/M08Reto3",
+    "serverUrl": "https://autocorector.dit.upm.es/",   //hay que cambiar esta direccion pero no se cual hay que poner
+    "courseId": "2",
+    "assignmentId": "17"
+  },
+  "engines": {
+    "node": "^12.16.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
+
+
+
+npm install 
+npm install laravel
+npm install nodejs
+npm install ...
+
+(" (appSheet)-> web per crear app en 2 minuts ")

@@ -6,7 +6,8 @@ class Habitacion {
 	constructor() {
 
 		// Temperatura actual de la habitacion:
-		this.temperatura = 20.0;
+		this.temperatura = 20.0; 
+			/*****************crear una función que pida un valor por consola y lo guarde en this.temperatura*/
 
 		// Cada 10 segundos sube o baja aleatoriamente la temperatura 
 		// hasta +/- un grado:
