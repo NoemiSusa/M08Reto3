@@ -8,7 +8,8 @@ class Habitacion {
 		// Temperatura actual de la habitacion:
 		this.temperatura = 20.0; 
 			/*****************crear una función que pida un valor por consola y lo guarde en this.temperatura*/
-
+		// temp=prompt()
+		
 		// Cada 10 segundos sube o baja aleatoriamente la temperatura 
 		// hasta +/- un grado:
 		setInterval(() => {
